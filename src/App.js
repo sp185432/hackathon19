@@ -6,7 +6,7 @@ class App extends Component {
     return (
       <div className="container-fluid">
         <div className="jumbotron" color='##228B22'>
-          <h1 >Order & Out Next Release 2019</h1>
+          <h1 >Order & Out Next Release 2020</h1>
           <p >A web application that allows users to order food.</p>
         </div>
         <Dashboard />
